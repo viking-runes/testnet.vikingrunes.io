@@ -976,6 +976,11 @@ PROCEED WITH CAUTION!
           balances
           {
             div_amount
+            rune_id
+            rune
+            amount
+            symbol
+            divisibility
           }
         }
         vout
@@ -986,6 +991,11 @@ PROCEED WITH CAUTION!
           balances
           {
             div_amount
+            rune_id
+            rune
+            amount
+            symbol
+            divisibility
           }
         }
                 stake_data
